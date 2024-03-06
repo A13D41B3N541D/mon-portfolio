@@ -1,0 +1,8 @@
+{
+  "name": "MonPortfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9e45d422"
+}
